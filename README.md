@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://twitter.com/_anovius" target="blank"><img src="https://img.shields.io/twitter/follow/who_iqrar?logo=twitter&style=for-the-badge" alt="who_iqrar" /></a> </p>
+
 - 👋 Hi, I’m Iqrar Hussain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node JS

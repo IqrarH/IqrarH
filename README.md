@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Iqrar Hussain
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m have been working in Node JS, ExpressJs, AngularJs.
 - 💞️ I’m looking to collaborate on Web Development & ML
 - 📫 How to reach me  iqrarhussain471@gmail.com
 
